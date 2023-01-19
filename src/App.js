@@ -1,12 +1,24 @@
 import React from "react";
+import Navbar from "./components/navbar/navbar";
+import { BrowserRouter, Routes, Route, Navigate, Link } from "react-router-dom";
+import Router from "./Router";
+import "./style.css"
 
-const App = () => {
+
+function App() {
 
   return (
     <>
-      <h1>hello</h1>
+      <div>
+        <BrowserRouter>
+        <div style={{display:"flex"}}>
+           <Navbar />
+           <Router/>
+        </div>
+        </BrowserRouter>
+      </div>
     </>
-  )
+  );
 }
 
 export default App;
