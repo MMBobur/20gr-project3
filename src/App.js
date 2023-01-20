@@ -1,11 +1,12 @@
 import React from "react";
-
+import Product from './Product/Product'
+import { Box } from '@mui/material';
 const App = () => {
 
   return (
-    <>
-      <h1>hello</h1>
-    </>
+    <Box>
+      <Product />
+    </Box>
   )
 }
 
