@@ -6,11 +6,11 @@ import { FaPinterest, FaInstagram, FaFacebookF, FaTwitter } from "react-icons/fa
 export const Navname = [
     {
         name: "HOME",
-        path:"/home"
+        path:"/"
     },
     {
         name: "SHOP",
-        path:"/shop"
+        path:"/shopp"
     },
     {
         name: "PRODUCT",

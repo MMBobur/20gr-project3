@@ -1,10 +1,12 @@
 import React from "react";
 import { Routes, Route} from "react-router-dom";
-import Data from "./pages/Data/Data";
+import Home from "./pages/home/index"
+import Shopp from  "./pages/Shopp/index"
 const Router = () => {
   return (
     <Routes>
-      <Route path="/home" element={<Data />} />
+      <Route path="/" element={<Home />} />
+      <Route path="/shopp" element={<Shopp />} />
     </Routes>
   );
 };
