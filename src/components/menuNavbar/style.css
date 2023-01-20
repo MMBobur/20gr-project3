@@ -1,0 +1,21 @@
+.icon{
+    border-radius: 0 !important;
+    margin-top: -23px !important;
+}
+.bar{
+    background-color: #fff !important;
+    height: 70px !important;
+}
+.navbar_hov .activ .navbar_link .rang {
+    transition-duration: 500ms;
+    width: 35px;
+    height: 3px;
+    position: absolute;
+    top: 50%;
+    margin-top: -1.5px;
+    left: -150px;
+    background-color: #fbb710;
+}
+.navbar_hov .activ .navbar_link:hover .rang {
+    left: -75px;
+}

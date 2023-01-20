@@ -1,0 +1,37 @@
+.navbar_hov .activ .navbar_link .rang {
+    transition-duration: 500ms;
+    width: 35px;
+    height: 3px;
+    position: absolute;
+    top: 50%;
+    margin-top: -1.5px;
+    left: -150px;
+    background-color: #fbb710;
+}
+.navbar_hov .activ .navbar_link:hover .rang {
+    left: -75px;
+}
+#modal {
+    background-color: #f5f7fa !important;
+
+}
+.offcanvas-backdrop {
+    background-color: #fff !important;
+}
+.btn-close{
+    transition-duration: 500ms !important;
+    width: 25px !important;
+    height: 25px !important;
+    position: absolute !important;
+    top: 0px !important;
+    right: 0px !important;
+    text-align: center !important;
+    color: #fff !important;
+    line-height: 40px !important;
+    font-size: 12px !important;
+    cursor: pointer !important;
+    background-color: #fbb710 !important;
+    border-radius: 0 !important;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+}
