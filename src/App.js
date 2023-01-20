@@ -1,15 +1,26 @@
 import React from "react";
+import Navbar from "./components/navbar/navbar";
+import { BrowserRouter, Routes, Route, Navigate, Link } from "react-router-dom";
+import Router from "./Router";
+import "./style.css"
 import { Box } from '@mui/material';
 import './App.css'
 import Checkout from "./Checkout/Checkout";
 
-const App = () => {
+function App() {
 
   return (
-    <Box>
-      <Checkout />
-    </Box>
-  )
+    <>
+      <div>
+        <BrowserRouter>
+        <div style={{display:"flex"}}>
+           <Navbar />
+           <Router/>
+        </div>
+        </BrowserRouter>
+      </div>
+    </>
+  );
 }
 
 export default App;
