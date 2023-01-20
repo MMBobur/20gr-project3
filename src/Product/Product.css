@@ -1,0 +1,249 @@
+#protepyoz1 {
+    color: #242424;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+#protepyoz2 {
+    display: inline-block;
+    padding: 0 6px 0 6px;
+    color: #6c757d;
+}
+
+#protepyoz3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #6c757d;
+    font-weight: 500 !important;
+}
+
+.kXteup {
+    display: none !important;
+    width: 0% !important;
+    height: 0% !important;
+}
+
+.Slxdj {
+    display: none !important;
+    width: 0% !important;
+    height: 0% !important;
+}
+
+.ezKHIn {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    background-image: url(./img/car1.jpg) !important;
+    width: 100px !important;
+    height: 100px !important;
+    background: none !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    width: 24.1% !important;
+    margin: 0 3px !important;
+    padding: 0 !important;
+    border: 1px solid #fff !important;
+}
+
+#TabPasRas {
+    background-position: center !important;
+}
+#TabPasRas2 {
+    width: 100% !important;
+    height: 140px !important;
+    background-position: center !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    border: 2px solid #fbb710 !important;
+    height: 100% !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+    height: 0 !important;
+    display: block !important;
+}
+
+.css-13xfq8m-MuiTabPanel-root {
+    padding: 0 !important;
+}
+
+#proidbosh1 {
+    width: 80px;
+    height: 3px;
+    background-color: #fbb710;
+    margin-bottom: 15px;
+    display: block;
+}
+
+#proidbosh2 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #fbb710;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+
+#proidbosh3 {
+    color: #242424;
+    line-height: 1.3;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+#proidbosh4 {
+    font-size: 11px;
+    color: #fbb710;
+    justify-content: start;
+    margin-right: 3px;
+}
+
+#proidbosh5 {
+    display: flex;
+    color: #6b6b6b;
+    font-size: 14.5px;
+    width: 50%;
+    font-weight: 500;
+    justify-content: right;
+}
+
+#proidbosh6 {
+    margin-bottom: 0;
+    font-size: 12px;
+    color: #6b6b6b;
+    line-height: 1;
+    font-weight: 550;
+    display: flex;
+}
+
+#proidbosh7 {
+    background: #20d34a !important;
+    width: 10.29px;
+    height: 10.29px;
+    border-radius: 50%;
+    margin: 0.5px 2px 0 0;
+}
+
+#proidbosh8 {
+    margin: 3rem 0;
+}
+
+#proidbosh9 {
+    line-height: 2.1;
+    color: #6b6b6b;
+    margin-bottom: 1rem;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#proidbosh10 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+#proidbosh11 {
+    margin-bottom: 0;
+    line-height: 40px;
+    height: 40px;
+    padding: 0 15px;
+    background-color: #f5f7fa;
+    color: #6d6d6d;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#proidbosh12 {
+    text-align: center;
+    background-color: #f5f7fa;
+    height: 40px;
+    width: 100px;
+    border: none;
+    appearance: textfield;
+    color: #959595;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer !important;
+}
+
+#proidbosh13 {
+    width: 310px;
+    height: 80px;
+    line-height: 80px;
+    display: inline-block;
+    min-width: 160px;
+    color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 0 7px;
+    font-size: 18px;
+    background-color: #fbb710;
+    font-weight: 400;
+    cursor: pointer;
+}
+#outlined-number{
+    outline: none !important;
+}
+#proidbosh13:hover {
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #131212;
+}
+.css-v4u5dn-MuiInputBase-root-MuiInput-root:after {
+    display: none !important;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input{
+    padding: 0 !important;
+    text-align: center;
+    color: #959595 !important;
+    font-size: 16px !important;
+    opacity: 1 !important;
+}
+.css-v4u5dn-MuiInputBase-root-MuiInput-root:before{
+    display: none !important;
+}
+#proidbosh12:hover #asfdgfhj{
+    display: none;
+    width: 0 !important;
+    height: 0 !important;
+}
+@media screen and (max-width: 2600px) {
+    .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        width: 24.55% !important;
+    }
+}
+@media screen and (max-width: 1700px) {
+    .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        width: 24.1% !important;
+    }
+}
+@media screen and (max-width: 1114px ) {
+    #TabPasRas2 {
+        height: 80px !important;
+    }
+    #proidbosh13{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1099px) {
+    .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+        width: 23.7% !important;
+    }
+}
+@media screen and (max-width: 900px ) {
+    #proidbosh13{
+        width: 310px;
+    }
+}
+@media screen and (max-width: 900px ) {
+    #proidbosh13{
+        width: 310px;
+    }
+}
+@media screen and (max-width: 600px ) {
+    #proidbosh13{
+        width: 280px;
+    }
+}

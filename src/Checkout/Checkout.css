@@ -1,0 +1,153 @@
+#checkyozbosh1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #242424;
+    line-height: 1.3;
+    font-weight: 400;
+}
+
+#checkyozbosh2 {
+    display: flex;
+    width: 100%;
+}
+
+#checkyozbosh3 {
+    padding: 0 15px;
+    margin-bottom: 16px;
+    background-color: #fff;
+}
+#checkyozbosh4 {
+    height: 60px;
+    border: none;
+    border-radius: 0;
+    background-color: #f5f7fa;
+    padding:0 30px ;
+    /* padding-right: 30px; */
+    color: #6b6b6b;
+    font-size: 14px;
+    outline: none;
+    width: 100%;
+    font-weight: 500;
+}
+#checkyozbosh5 {
+    height: 60px;
+    border: none;
+    border-radius: 0;
+    background-color: #f5f7fa;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #6b6b6b;
+    font-size: 14px;
+    outline: none;
+    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
+    margin-bottom: 16px;
+}
+#checkyozbosh6 {
+    border: none;
+    border-radius: 0;
+    background-color: #f5f7fa;
+    padding: 30px;
+    color: #6b6b6b;
+    font-size: 14px;
+    height: 210px;
+    width: 100%;
+    outline: none;
+}
+#checkceck1 {
+    padding: 0 15px;
+    margin-bottom: 8px;
+    background-color: #fff;
+    display: flex;
+}
+#checkceck2{
+    width: 15px !important;
+    height: 15px !important;
+    margin: 2px 5px 0 0;
+}
+#checkceck3{ 
+    font-size: 14px;
+    color: #6b6b6b;
+    font-weight: 600;
+}
+#checkyozbosh4:focus{
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+#checkyozbosh5:focus{
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+#checkyozbosh6:focus{
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+#checkyonzz1{
+    background-color: #f5f7fa;
+    padding: 30px 20px;
+    width: 100%;
+}
+#checkyonzz2{
+    color: #242424;
+    line-height: 1.3;
+    font-weight: 500;
+    font-size: 18px;
+}
+#checkyonzz3{
+    margin-top: 30px;
+}
+#checkyonzz4{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+#checkyonzz5{
+    color: #6b6b6b;
+    font-size: 14px;
+    font-weight: 600;
+}
+#checkyonzz6{
+    color: #6b6b6b;
+    font-size: 14px;
+    font-weight: 600;
+}
+#checkyonzz8{
+    font-size: 14px;
+    color: #6b6b6b;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+#checkyonzz7 .css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root{
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 16px !important;
+    max-height: 16px !important;
+    font-size: 18px !important;
+}
+#checkyonzz7 .css-i4bv87-MuiSvgIcon-root{
+    font-size: 20px !important;
+    margin: 3px 8px 0 0 !important;
+}
+#checkyonzz9{
+    display: inline-block;
+    min-width: 100%;
+    height: 55px;
+    color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 0 7px;
+    font-size: 18px;
+    line-height: 56px;
+    background-color: #fbb710;
+    font-weight: 500;
+    cursor: pointer;
+}
+#checkyonzz9:hover{
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #131212;
+}
+@media screen and (max-width:900px) {
+    #checkyonzz1{
+        margin-top: 118px;
+    }
+}
